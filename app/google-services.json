@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "850626145169",
+    "firebase_url": "https://livechat-5590e.firebaseio.com",
+    "project_id": "livechat-5590e",
+    "storage_bucket": "livechat-5590e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850626145169:android:9f731b30a3f6c525",
+        "android_client_info": {
+          "package_name": "dev.edmt.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850626145169-ud8s4ohpnrnvj00acf6sgil7bih94hrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.edmt.chatapp",
+            "certificate_hash": "e69afbff0334854d1e09e9ea34a9b975fc305270"
+          }
+        },
+        {
+          "client_id": "850626145169-smm710pqr46lmsg6nka5vv0d59mgfecr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1iF6BUbFakCJ2fjlBWT1Bio3YOUN16Ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850626145169-smm710pqr46lmsg6nka5vv0d59mgfecr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
